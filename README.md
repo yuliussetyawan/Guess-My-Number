@@ -19,6 +19,6 @@ To get started with "Guess My Number," simply clone the repository and open the 
 
 Contributions to "Guess My Number" are always welcome! If you have an idea for a new feature or improvement, feel free to open an issue or submit a pull request with your changes.
 
-## Deploymet
+## Deployment
 https://yuliussetyawan.github.io/Guess-My-Number/
 
